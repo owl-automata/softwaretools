@@ -4,8 +4,8 @@
   "notes": "testing",
   "platforms": {
     "windows-x86_64": {
-      "signature": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.0/OWL_toolbox_0.1.0_x64-setup.exe.sig",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.0/OWL_toolbox_0.1.0_x64-setup.exe"
+      "signature": "https://github.com/owl-automata/softwaretools/releases/download/v0.2.0/OWL_toolbox_0.1.0_x64-setup.exe.sig",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.2.0/OWL_toolbox_0.1.0_x64-setup.exe"
     }
   }
 }
