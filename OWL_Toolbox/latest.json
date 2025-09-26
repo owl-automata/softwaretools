@@ -4,8 +4,8 @@
   "notes": "testing - version with translations",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDdhS01hekJjV0YwRjVES1d0ZDJ0KzhPekNNdVVpTEE4K1BjZDFtc1NYQjdxNUEwWHR6RnNHSlAzR2RscXpIcE5nTG9wdWZRSGZyWjRzSm1xMGtoSkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODg3MjQ1CWZpbGU6T1dMIHRvb2xib3hfMC4xLjdfeDY0LXNldHVwLmV4ZQpYdmtQV2V2cmtmeVB5NWYwbkIrVUFyS2ZMdGpEdTAyN3k0UXorQXdjY3orM0VsL0xvZEliRWNZM0VBTUR4eEd2a2c1d0xNNng4Qkp0TWNUYlBUaTZDdz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.7/OWL.toolbox_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWC9wRjVyalkrWnZxWDVvMTA0QTJObkFIS3l4bFRzZDNmTzlralF5Wmpuc05hazY4ZHZJSGUwVXpVZTZpRjR4ck5jeEhzK2xQN1VLV2lGS1dXY0xnQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODg4MTQxCWZpbGU6T1dMX3Rvb2xib3hfMC4xLjdfeDY0LXNldHVwLmV4ZQpIWm1SNUgycWUvR1dNT2JFLy80cFp0ZWZGNjVBMnNvZkpBemlOc0R2cUsrNDZFOGxuU3ZxcjI1OUJUOUtGVG5pSUJiNGdGeHZURzA1NmtWY1JDR21CZz09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.7/OWL_toolbox_0.1.7_x64-setup.exe"
     }
   }
 }
