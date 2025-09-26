@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "pub_date": "2025-09-26T13:48:57Z",
+  "version": "0.1.7",
+  "pub_date": "2025-09-26T14:48:57Z",
   "notes": "testing - version with translations",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWHh5L0xacmRyc0RKRUlucFg2aW54SnlxWDNHTlNGRXpGNWlhM3BOY2x5V1diVkJCVklvNzdGSlp6dzRSMmFObU92OHlUM0c1MXJweGEvbEtMeWV0dWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODY4OTY5CWZpbGU6T1dMX3Rvb2xib3hfMC4xLjZfeDY0LXNldHVwLmV4ZQpMbTQyaEp6cHJhSXgxS05JSjAwSkozWS9uT2xkMXpQUThqbGlqejVSN09KZ0tGSW9OMzZBYnNSMUUxcGZ0Z2xhZ1Q4ZXpKUkM5L213NEpwNVgvRU1EZz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.6/OWL_toolbox_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDdhS01hekJjV0YwRjVES1d0ZDJ0KzhPekNNdVVpTEE4K1BjZDFtc1NYQjdxNUEwWHR6RnNHSlAzR2RscXpIcE5nTG9wdWZRSGZyWjRzSm1xMGtoSkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODg3MjQ1CWZpbGU6T1dMIHRvb2xib3hfMC4xLjdfeDY0LXNldHVwLmV4ZQpYdmtQV2V2cmtmeVB5NWYwbkIrVUFyS2ZMdGpEdTAyN3k0UXorQXdjY3orM0VsL0xvZEliRWNZM0VBTUR4eEd2a2c1d0xNNng4Qkp0TWNUYlBUaTZDdz09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v0.1.7/OWL.toolbox_0.1.7_x64-setup.exe"
     }
   }
 }
