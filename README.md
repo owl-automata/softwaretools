@@ -10,10 +10,6 @@ Each release includes versioned assets, release notes, and metadata required for
 ## Releases
 
 - Download the latest versions from the [Releases](https://github.com/username/softwaretools/releases) page.
-- Each release contains:
-  - Application binaries/installers
-  - Release notes and changelogs
-  - Updater metadata (if required by your application)
 
 ## Automatic Updates
 
