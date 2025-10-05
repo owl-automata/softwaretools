@@ -4,8 +4,8 @@
   "notes": "- Chameleon Plus Configurator\n- Minor UI updates\n- Bug fixes",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDBaS3RqWG9IMm15enFoaVk3TCtEcnQ5SnBpVmx5NnQ0NlloWjlSQzlxTE1tS1MvaDdINkk1UnVwN050cThWNXROVzFUVU1yUmowWnRkeWp1UlRtVndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTkzMjEyCWZpbGU6T1dMIFRvb2xib3hfMS4xLjBfeDY0LXNldHVwLmV4ZQppeTlLYXoxY1VKVzc3Tk0wWERqTUdNUXlwNm1ndHVyNmhDbTZucnJnWXFQcDBSVlJBaDlWRUNNQzg2YUk0S2JjZEs2M1NLRXd5M1RZWktkQzFSTUJBZz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.1.0/OWL.Toolbox_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWHl0a2hTWWM3RUdFY1FMQTNWY3R4WWkvbVZoMkNDTDVsNmpNTmJHMGN6VGdFNHppYVZhL2NKSklRYU05MkZkZ1UzMHRpRVAvQkVtOW1saVdHSTV4S3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjkwMjcyCWZpbGU6T1dMIFRvb2xib3hfMS4xLjJfeDY0LXNldHVwLmV4ZQphOHNUYTZMZDRxUUdIcCttblRlbVhUWldPNllTTEVvaWF0WjZTcFhRa2YvTVpGR1pUQ3cwNllXQ25nWldPbW5hVmUxZXl2R1VlU3UzMkFsTHQ0b2NBZz09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.1.2/OWL.Toolbox_1.1.2_x64-setup.exe"
     }
   }
 }
