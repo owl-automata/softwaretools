@@ -4,7 +4,7 @@
   "notes": "Minor UI Improvements\n\n Reduced installer size",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDlxdzNwd0lRNm9SK3U2Z3hPQXlJZGFuQm1hU2puWGdXRHdPMnhJLzZnTm13Z3ZNS3I2UjM4Y01XTDFXVWtJM2luL0t4dWtobDZyT2pySllKelZyQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5ODU3NDQzCWZpbGU6T1dMIFRvb2xib3hfMS4yLjJfeDY0LXNldHVwLmV4ZQpzdDhEZE1pS2wvYTdlbkxaVGJQMDlFRzd4MWN1dEZWTlZFZkt3aC9scDN4d0wwS3VJWDJmTllwVW1tZVZteTQ4aGttUEhHY1hzTkx2UVR2RHYwcGVDQT09Cg==",
       "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.2.2/OWL.Toolbox_1.2.2_x64-setup.exe"
     }
   }
