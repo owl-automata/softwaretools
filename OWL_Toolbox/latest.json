@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "pub_date": "2025-10-05T20:13:57Z",
+  "version": "1.2.1",
+  "pub_date": "2025-10-07T17:29:57Z",
   "notes": "- Chameleon Plus Configurator\n- Minor UI updates\n- Bug fixes",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWHl0a2hTWWM3RUdFY1FMQTNWY3R4WWkvbVZoMkNDTDVsNmpNTmJHMGN6VGdFNHppYVZhL2NKSklRYU05MkZkZ1UzMHRpRVAvQkVtOW1saVdHSTV4S3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjkwMjcyCWZpbGU6T1dMIFRvb2xib3hfMS4xLjJfeDY0LXNldHVwLmV4ZQphOHNUYTZMZDRxUUdIcCttblRlbVhUWldPNllTTEVvaWF0WjZTcFhRa2YvTVpGR1pUQ3cwNllXQ25nWldPbW5hVmUxZXl2R1VlU3UzMkFsTHQ0b2NBZz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.1.2/OWL.Toolbox_1.1.2_x64-setup.exe"
+      "signature": "",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.2.1/OWL.Toolbox_1.2.1_x64-setup.ex"
     }
   }
 }
