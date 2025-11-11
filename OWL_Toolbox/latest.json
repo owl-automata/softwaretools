@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "pub_date": "2025-10-07T19:29:57Z",
-  "notes": "Minor UI Improvements || Reduced installer size",
+  "version": "1.3.1",
+  "pub_date": "2025-11-11T19:09:57Z",
+  "notes": "Weinzierl Extended Copy:  Added support for .wz8861 files of device KNX Modbus RTU 886.1  UI improvements:  Added new button for quick transfer of items to target tree  Bug fixes:  Fixed bug where the export format general settings was not correctly copied",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDBmUTA3ZW9uQVFxWmJrZW9OeFMxQmR0TjlTMXdYaXFxUHVvMExzVlVTME5Qd0ZtMGJIbSthTVhRREVFSUMydFlqdk5VN000UUVUOC8rUi84OFJjQkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODUyNTM4CWZpbGU6T1dMIFRvb2xib3hfMS4zLjFfeDY0LXNldHVwLmV4ZQpCYy8raml2L29CeENBUVROOFdyK2szSmJVSk1xb3RBVStlY0V5QklMS2daTFJ4TXcwcTJtSGRqT2FKM3VtSTg2c0liUE0xRFRpSnY5a2F6eXR6bHRCdz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.2.2/OWL.Toolbox_1.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDhXWlB3Y1crZzdydDIvMU9KaWwxU1d6b3hWaHEwT0h4U1Exb1Z4eWloZDJ4RmsvZjFKODZVaDVQNzBOTVFUOGFHTzRxdXJTMWhYUlRPVEtqVEJyeGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODgxMzAwCWZpbGU6T1dMIFRvb2xib3hfMS4zLjFfeDY0LXNldHVwLmV4ZQpxME43eDFhWDlxbEI3Z2pPendtbVZxSEVqS05RZlJVSVJzeXd0bzB3N0M0N1VIb3J0S0V4T1dERFdYV3U5RG9RRk9NZWpFc3h5YlhINmJtakxYV1dDQT09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.3.1/OWL.Toolbox_1.3.1_x64-setup.exe"
     }
   }
 }
