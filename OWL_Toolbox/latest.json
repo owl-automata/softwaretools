@@ -4,7 +4,7 @@
   "notes": "Weinzierl Extended Copy: 1) Improved UI 2) Added functionality for 886.1 files",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDlxdzNwd0lRNm9SK3U2Z3hPQXlJZGFuQm1hU2puWGdXRHdPMnhJLzZnTm13Z3ZNS3I2UjM4Y01XTDFXVWtJM2luL0t4dWtobDZyT2pySllKelZyQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5ODU3NDQzCWZpbGU6T1dMIFRvb2xib3hfMS4yLjJfeDY0LXNldHVwLmV4ZQpzdDhEZE1pS2wvYTdlbkxaVGJQMDlFRzd4MWN1dEZWTlZFZkt3aC9scDN4d0wwS3VJWDJmTllwVW1tZVZteTQ4aGttUEhHY1hzTkx2UVR2RHYwcGVDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZEJpTW1JYjlIYnNBUjNkWGZ3T2NnbWNNdTM5OGJsWStDZVRRMGJyZ1JyT2hoeFlrUng3a0RqSFI1OVB5SmNVMEREenNWSGtFVnp3dklxTEQyQk5Hb0twOHlqWkNZbUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODUxNDIzCWZpbGU6T1dMIFRvb2xib3hfMS4zLjFfeDY0LXNldHVwLmV4ZQp3a3pmRU9RVXJjRkJ5VDhuQjBSa01WRFBRQUdRb1MxYVVwWE9Sd3d3TkdWSFNxUVorYytKWDl3b1JIRTBKbFJES3lzZGpMbzhSN0JBZUtnNkppeFpCZz09Cg==",
       "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.3.1/OWL.Toolbox_1.3.1_x64-setup.exe"
     }
   }
