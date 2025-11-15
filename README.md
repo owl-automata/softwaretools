@@ -9,7 +9,7 @@ Each release includes versioned assets, release notes, and metadata required for
 
 ## Releases
 
-- Download the latest versions from the [Releases](https://github.com/username/softwaretools/releases) page.
+- Download the latest versions from the [Releases](https://github.com/owl-automata/softwaretools/releases) page.
 
 ## Automatic Updates
 
