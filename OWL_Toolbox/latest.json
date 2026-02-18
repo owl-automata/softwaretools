@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "pub_date": "2025-12-27T18:09:57Z",
+  "version": "1.5.0",
+  "pub_date": "2026-02-18T10:09:57Z",
   "notes": "- **New App: Chameleon+ Project Planner**: A low-code engineering tool to build a complete Hotel project out of the typical rooms you defined with Chameleon+ LOGO! KNX Configurator    - Info Page: Added version number and SharKNX to product section.",
   "platforms": {
     "windows-x86_64": {
