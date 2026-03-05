@@ -1,11 +1,11 @@
 {
-  "version": "1.5.1",
-  "pub_date": "2026-03-05T17:09:57Z",
+  "version": "1.5.2",
+  "pub_date": "2026-03-05T17:59:57Z",
   "notes": "## New Features\n\n- **New App — Chameleon+ Project Planner**: A low-code engineering tool to build a complete Hotel project out of the typical rooms you defined with Chameleon+ LOGO! KNX Configurator\n- **Chameleon Plus Configurator**: Completely new application redesign — more intuitive and easy to use, with seamless integration with the Chameleon+ Project Planner\n\n## Info Page\n\n- Added version number to the product section\n- Added SharKNX to the product section\n\n## UI\n\n- Overall visual refresh of the application interface",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWHdkUG91YUhqTEUzamVuakRuL0NkSzQwb2VkY3I0OFNaZGw0TUpmU0VNb0NROXZqK2kyaHp0a2ZjQnYwNWhuaVAycUxHZ0xxYlZOU09taCtjSXdJQmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzE5MDUxCWZpbGU6T1dMIFRvb2xib3hfMS41LjFfeDY0LXNldHVwLmV4ZQpUUEdWSkgxemVlZHZNcnZiVlhaN1czNkZVTkRRdXFOQkNFcnV5Snh1clh3NHg4cERRNExsT0xBdHFkYm1kMENNN25kdkRldjR4aVlSc0gwamZPN3JBdz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.1/OWL.Toolbox_1.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDFJSklsclV1dGZLQ1RIOVpUNXBNOXBmZFVmMlhnWVhqcXU2SCtZUzJvQ08veGh2aEhxbVRTRVlHaCtzWFBzK2tQNWVUZ25UOWorMUhSbjlVdTdSR2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzI0OTk2CWZpbGU6T1dMIFRvb2xib3hfMS41LjJfeDY0LXNldHVwLmV4ZQpqdVhQMFcreWpTc01kbmlaa2R3cmR3bDYzSkpjTFFuTm50OUpuUHNKOUd0MWQxN2Q4VWpxTTgveHhTVXNRZlVsMWRxdmN2ZEZKQ2ZseS9SYzl2OVZCUT09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.2/OWL.Toolbox_1.5.2_x64-setup.exe"
     }
   }
 }
