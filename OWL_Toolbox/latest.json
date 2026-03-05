@@ -1,11 +1,10 @@
 {
-  "version": "1.5.0",
-  "pub_date": "2026-02-18T10:09:57Z",
-  "notes": "- **New App: Chameleon+ Project Planner**: A low-code engineering tool to build a complete Hotel project out of the typical rooms you defined with Chameleon+ LOGO! KNX Configurator    - Info Page: Added version number and SharKNX to product section.",
-  "platforms": {
+  "version": "1.5.1",
+  "pub_date": "2026-03-05T17:09:57Z",
+  "notes": "## New Features\n\n- **New App — Chameleon+ Project Planner**: A low-code engineering tool to build a complete Hotel project out of the typical rooms you defined with Chameleon+ LOGO! KNX Configurator\n- **Chameleon Plus Configurator**: Completely new application redesign — more intuitive and easy to use, with seamless integration with the Chameleon+ Project Planner\n\n## Info Page\n\n- Added version number to the product section\n- Added SharKNX to the product section\n\n## UI\n\n- Overall visual refresh of the application interface"  "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDZVZzBhTEc1V3Q2VXdaYzI0c3JYNWZvV2FuU0ZIV21LN3g4aXpsY3RRSU82SjdlUkZhbjQ4RC9uUGZxZG9NbHZ0TlhOMFYybEU2bmRZa0JPaTY4WWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA1NDE4CWZpbGU6T1dMIFRvb2xib3hfMS41LjBfeDY0LXNldHVwLmV4ZQpDYTd1YjlUa3VrWUpFQmVXK3ZWeGdHaDVSZFpDM2xETjdHZjFnMDJXV29keUYzUWEvVzFhK1QwMm9KWVFFdXZ6VURJeEYvUitQS0xUV2ZMZE0reVNEdz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.0/OWL.Toolbox_1.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWHdkUG91YUhqTEUzamVuakRuL0NkSzQwb2VkY3I0OFNaZGw0TUpmU0VNb0NROXZqK2kyaHp0a2ZjQnYwNWhuaVAycUxHZ0xxYlZOU09taCtjSXdJQmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNzE5MDUxCWZpbGU6T1dMIFRvb2xib3hfMS41LjFfeDY0LXNldHVwLmV4ZQpUUEdWSkgxemVlZHZNcnZiVlhaN1czNkZVTkRRdXFOQkNFcnV5Snh1clh3NHg4cERRNExsT0xBdHFkYm1kMENNN25kdkRldjR4aVlSc0gwamZPN3JBdz09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.1/OWL.Toolbox_1.5.1_x64-setup.exe"
     }
   }
 }
