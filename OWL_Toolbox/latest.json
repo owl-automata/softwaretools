@@ -1,11 +1,11 @@
 {
-  "version": "1.5.3",
-  "pub_date": "2026-03-16T10:59:57Z",
-  "notes": "## Updated Apps\n\n- **Project Planner:** Updated Help Section\n -**Chameleon Plus Configurator:** Improved splash screen image loading\n\n## UI Changes\n\n- **Main Page:** Improved loading time of card images\n- **Info Page:** Improved loading time for images",
+  "version": "1.5.4",
+  "pub_date": "2026-03-19T08:59:57Z",
+  "notes": "### Chameleon+ Project Planner Version 1.0.1\n**Fixes**\n- **Project Card:** The Edit Project card no longer resets the room configuration.\n\n### Chameleon Plus Configurator Version 2.0.1\n***Fixes***\n- **Project Card:** The Edit Project card no longer resets the room configuration.\n- **Display Scenes:**: No longer hard-capped at 24.\n\n**Improvements**\n- Design is now retained when downsizing to a smaller I/O configuration.\n- Room templates now retain scenes.\n\n***New Features***\n- Added text input support for Greek, Cyrillic, Extended Latin, Hebrew, and Arabic.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWCtVdEVyK1p5Yk83ekV3WTVieER0aVJQTVBwNFBBUTFMZi90WDBCeXhPeG5MNXdlSHQ5UG54cVovSlIrOGtoTjNwTlFDa3E5UTZrNno4aVkwRHAvMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjUyODUxCWZpbGU6T1dMIFRvb2xib3hfMS41LjNfeDY0LXNldHVwLmV4ZQpaM1RmNWJsUlRSUmsvWWxjZk9Od0FzalpMNEpKamdiTnRoNkxGWnNsTHc4Yyt1d2wrNkNYbXFyekYreFcySnlTeUlFdmV5UmhDa3dXQjA4L3gyUzdBdz09Cg==",
-      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.3/OWL.Toolbox_1.5.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWm5kRHZQcGtvWDFFWEVKTFR6SWMvUUgwSHJUWEx2YXlaZVU1OUtCbWVHd3pzSVFBNXhDM1FUWEVsVzlLYXhLRUoza1BzT1dyb0N2SFk0V1F6MVR3R0hIMzhrK0VscWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTEwMTUxCWZpbGU6T1dMIFRvb2xib3hfMS41LjRfeDY0LXNldHVwLmV4ZQp0NlJoODBSZEpBYnRQc21sZDVDaWdZOWM3ci9RbGdRWFpGdmlBY2oxZnI5L05DMFpWSVpBN1hUa09sMHNrMGg5YW01eHNMLzVNNHRzZnBMOHN5M09EZz09Cg==",
+      "url": "https://github.com/owl-automata/softwaretools/releases/download/v1.5.4/OWL.Toolbox_1.5.4_x64-setup.exe"
     }
   }
 }
